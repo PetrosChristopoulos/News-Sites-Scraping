@@ -54,3 +54,5 @@ In Greece, there are many well-known newspapers and magazines active online that
 10. **Documento (documentonews.gr)**: Known for its political investigations and its critical stance toward the government and political scandals.
 
 These media outlets have broad recognition and influence in covering political issues in Greece.
+
+* It is important to note that the chosen category for this research is "Politics"—a field where divisive rhetoric and polarization frequently emerge and evolve across various dimensions.
