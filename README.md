@@ -37,3 +37,20 @@ As the project progresses, updates may be made to include additional fields (suc
 ## Future Steps
 
 Once data collection is complete, the next steps will involve detailed NLP and sentiment analysis. Results will help identify patterns in media language use and contribute insights into the presence of polarized or divisive rhetoric in Greek news sources.
+
+---
+## But which Websites, will we put ubder the research scope?
+In Greece, there are many well-known newspapers and magazines active online that cover political issues. The most widely recognized are:
+
+1. **Kathimerini (kathimerini.gr)**: One of the oldest and most reputable newspapers in Greece, "Kathimerini" covers politics, economy, and international news from a conservative perspective.
+2. **To Vima (tovima.gr)**: The online edition of one of the most well-known newspapers with a long history. It broadly covers political, economic, and social issues.
+3. **Ta Nea (tanea.gr)**: Sister newspaper to "To Vima," also with a longstanding presence, focusing on politics, society, and the economy.
+4. **Efimerida ton Syntakton (efsyn.gr)**: A self-managed newspaper with an emphasis on progressive and left-wing topics, mainly covering political and social issues.
+5. **Proto Thema (protothema.gr)**: A newspaper with a strong online presence and popularity. While it covers general news topics, it frequently focuses on political events and scandals.
+6. **Avgi (avgi.gr)**: A newspaper affiliated with SYRIZA, primarily focusing on political issues from a left-wing perspective.
+7. **Liberal (liberal.gr)**: A highly politicized site with a liberal approach to political and economic issues.
+8. **News247 (news247.gr)**: An online outlet that covers a wide range of topics, with a particular emphasis on political news.
+9. **Eleftheros Typos (eleftherostypos.gr)**: A traditionally conservative newspaper that focuses heavily on politics and the economy.
+10. **Documento (documentonews.gr)**: Known for its political investigations and its critical stance toward the government and political scandals.
+
+These media outlets have broad recognition and influence in covering political issues in Greece.
